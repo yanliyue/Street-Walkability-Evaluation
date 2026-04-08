@@ -22,7 +22,7 @@ These components are combined to construct a continuous **WalkAbility heat surfa
 
 The following GIFs show example results of the walkability analysis.
 
-![Walkability result example 1](imgs/shangye10.gif)
+![Walkability result example 1](imgs/shequdaolu5.gif)
 
 ![Walkability result example 2](imgs/xiezilou1.gif)
 
