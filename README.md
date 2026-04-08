@@ -18,17 +18,6 @@ These components are combined to construct a continuous **WalkAbility heat surfa
 
 ---
 
-## Objectives
-
-- Build a reproducible pipeline for street walkability evaluation
-- Extract visual-semantic and geometric features from street-view imagery
-- Model dynamic interference and temporal variability
-- Generate a continuous walkability heat surface
-- Develop multidimensional indicators for walkability analysis
-- Support urban design, planning, and street-environment assessment
-
----
-
 ## Methodology
 
 ### 1. Semantic Feature Extraction
