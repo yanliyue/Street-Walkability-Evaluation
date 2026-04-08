@@ -18,6 +18,18 @@ These components are combined to construct a continuous **WalkAbility heat surfa
 
 ---
 
+### Walkability Result Examples
+
+The following GIFs show example results of the walkability analysis.
+
+![Walkability result example 1](imgs/shequdaolu6.gif)
+
+![Walkability result example 2](imgs/xiezilou1.gif)
+
+These examples illustrate the visualized outputs of the WalkAbility evaluation results.
+
+---
+
 ## Methodology
 
 ### 1. Semantic Feature Extraction
@@ -29,8 +41,6 @@ Street-view imagery is processed to extract semantic elements related to walkabi
 - Sky visibility
 - Vehicles
 - Pedestrians
-- Street furniture
-- Traffic infrastructure
 
 ### 2. Spatial Geometric Analysis
 Geometric properties of the street environment are quantified, including:
